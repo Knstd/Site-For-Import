@@ -1,0 +1,5 @@
+tmp/
+*.html_old
+*.ds-_backup
+Thumbs.db
+.DS_Store
